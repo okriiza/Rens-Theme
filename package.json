@@ -3,6 +3,7 @@
   "publisher": "RendiOkriza",
   "displayName": "Rens Theme",
   "description": "A theme that suit your mood.",
+  "icon": "images/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
