@@ -1,0 +1,36 @@
+{
+  "name": "rens-theme",
+  "publisher": "RendiOkriza",
+  "displayName": "Rens Theme",
+  "description": "A theme that suit your mood.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "author": {
+    "name": "Rendi Okriza Putra",
+    "email": "okriizaa@gmail.com",
+    "url": "https://github.com/okriiza"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okriiza/Rens-Theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rens Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rens Dark-color-theme.json"
+      },
+      {
+        "label": "Rens Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rens Dark Soft-color-theme.json"
+      }
+    ]
+  }
+}
