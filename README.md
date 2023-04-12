@@ -14,6 +14,10 @@ Rens Theme is a theme that suit your mood. It comes with two variants, Rens Dark
 
 ![theme preview](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/imEaWWFZsCcQtwu3DX64sxNmQMa2/vDsHWwJs-default.jpeg)
 
+### Rens Sweet (new)
+
+![theme preview](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/imEaWWFZsCcQtwu3DX64sxNmQMa2/CKayy0uJ-default.jpeg)
+
 ## Features
 
 - Two variants: **Rens Dark** and **Rens Dark Soft**.
